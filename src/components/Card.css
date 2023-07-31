@@ -1,0 +1,27 @@
+.bid-image-border {
+    width: 165px;
+    height: 115px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 0 0;
+    border: 2px solid limegreen;
+}
+
+.card-heading {
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 19px;
+}
+
+.bid-btn {
+    background: linear-gradient(90deg, rgba(18,194,233,1) 0%, rgba(196,113,237,1) 50%, rgba(246,79,89,1) 100%);
+    width: 12px;
+    height: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
